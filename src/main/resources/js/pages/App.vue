@@ -45,7 +45,7 @@
 
         height="160"
 
-        src="https://images.wallpaperscraft.ru/image/single/kraska_razvody_piatna_207462_1280x720.jpg"
+        src="https://images.wallpaperscraft.ru/image/single/kraska_granzh_zelenyj_124502_1280x720.jpg"
        class="fill-height repeating-gradient"
 
         scroll-target="#scrolling-techniques-6"
