@@ -1,0 +1,2 @@
+com/papchenko/blog/BlogApplicationTests.java
+ com.papchenko.blog.BlogApplicationTests
