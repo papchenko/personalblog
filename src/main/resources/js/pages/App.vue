@@ -45,7 +45,7 @@
 
         height="160"
 
-        src="https://images.wallpaperscraft.ru/image/single/kraska_granzh_zelenyj_124502_1280x720.jpg"
+        src="https://cdn.vuetifyjs.com/images/parallax/material2.jpg"
        class="fill-height repeating-gradient"
 
         scroll-target="#scrolling-techniques-6"

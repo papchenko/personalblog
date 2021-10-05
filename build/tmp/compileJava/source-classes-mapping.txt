@@ -16,12 +16,12 @@ com/papchenko/blog/config/WebMvcConfig.java
  com.papchenko.blog.config.WebMvcConfig
 com/papchenko/blog/domain/Message.java
  com.papchenko.blog.domain.Message
-com/papchenko/blog/exceptions/NotFoundExceptions.java
- com.papchenko.blog.exceptions.NotFoundExceptions
 com/papchenko/blog/dto/EventType.java
  com.papchenko.blog.dto.EventType
 com/papchenko/blog/controller/MainController.java
  com.papchenko.blog.controller.MainController
+com/papchenko/blog/BlogApplication.java
+ com.papchenko.blog.BlogApplication
 com/papchenko/blog/repo/UserDetailsRepo.java
  com.papchenko.blog.repo.UserDetailsRepo
 com/papchenko/blog/domain/Views.java
@@ -33,5 +33,5 @@ com/papchenko/blog/controller/MessageController.java
  com.papchenko.blog.controller.MessageController
 com/papchenko/blog/dto/MetaDto.java
  com.papchenko.blog.dto.MetaDto
-com/papchenko/blog/BlogApplication.java
- com.papchenko.blog.BlogApplication
+com/papchenko/blog/exceptions/NotFoundExceptions.java
+ com.papchenko.blog.exceptions.NotFoundExceptions
